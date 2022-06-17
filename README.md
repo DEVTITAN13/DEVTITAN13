@@ -7,6 +7,10 @@ const devtitan13 = {
   tools: [Node, Styled-Components],
 }
 ```
+<a href="https://twitter.com/FaustLiceaga">
+  <img align="right" alt="FaustLiceaga | Twitter" width="21px" src="https://raw.githubusercontent.com/FaustLiceaga/FaustLiceaga/master/assets/twitter.svg" />
+</a>
+
 You can find me 👽:
 - [twitter](https://twitter.com/FaustLiceaga)
 - [Youtube](https://www.youtube.com/channel/UCvKB233bZEZ20Tcy-7zEoJA)
