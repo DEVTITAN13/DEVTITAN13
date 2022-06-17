@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, Im Fausto 👋🧔🖥️
+
+```Js
+const devtitan13 = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, php, .NET],
+  tools: [Node, Styled-Components],
+}
+```
+You can find me 👽:
+- [twitter](https://twitter.com/FaustLiceaga)
+- [Youtube](https://www.youtube.com/channel/UCvKB233bZEZ20Tcy-7zEoJA)
 
 <!--
 **DEVTITAN13/DEVTITAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
