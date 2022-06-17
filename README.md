@@ -12,6 +12,8 @@ You can find me 👽:
 - [Youtube](https://www.youtube.com/channel/UCvKB233bZEZ20Tcy-7zEoJA)
 - [instagram](https://www.instagram.com/pxtitan)
 
+[![devtitan13's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtitan13)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DEVTITAN13/DEVTITAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
