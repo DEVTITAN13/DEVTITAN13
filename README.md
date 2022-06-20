@@ -7,7 +7,7 @@ const devtitan13 = {
   tools: [Node, Styled-Components],
   }
 ```
-You can find me 👽:
+You can find me in 👽:
 - [twitter](https://twitter.com/FaustLiceaga)
 - [Youtube](https://www.youtube.com/channel/UCvKB233bZEZ20Tcy-7zEoJA)
 - [instagram](https://www.instagram.com/pxtitan)
