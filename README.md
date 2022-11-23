@@ -1,10 +1,31 @@
-### Hi, Im Fausto 👋🧔🖥️
+### Hi, Im Fausto 👋🧔🖥️ Engenier of Software
 
 ```Js
 const devtitan13 = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, .NET],
-  tools: [Node, Styled-Components],
+  /*Presentación
+   * ¡Contribuir con mi conocimiento y experiencia. A agregar valor humano dentro del mundo de la tecnología, 
+   * trabajando con pasión y entusiasmo! 
+   * Implementar el mejor desempeño y optimización en desarrollos, servicio y atención. 
+   * Desarrollo, infraestructura TI
+   * ¡Mi proposito es hacer de mi posición el mejor desempeño! eficientar las herramientas que están en mis manos,
+   * crear y promover proyectos.
+   * así como la mejora continua. ¡Dando mi pasión, dedicación y espíritu en lo que más disfruto!
+   */
+   
+  //aquí tengo una lista de los lenguajes de programación en los cuales trabajo cotidianamente
+  code_frontend: [Javascript, Typescript, HTML, CSS],
+  code_backend: [C#, Python, Java, Cobol, PHP, ],
+  code_mobille: [Kotlin],
+  frameworks: [ ADOTNet, Entity, Angular, JQuery, Svelte]
+    
+  /*Interpretes*/
+  tools: [Node, Styled-Components, JVM]
+  
+  💬 Ask me about ... C# and Java
+  🔭 I’m currently working on ...Some Web services and implement GPS data
+  🌱 I’m currently learning ... Pyrthon 
+  ⚡ Fun fact: ... Im a Left Handed
   }
 ```
 You can find me in 👽:
@@ -19,12 +40,4 @@ You can find me in 👽:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
