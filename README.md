@@ -17,7 +17,7 @@ const devtitan13 = {
   code_frontend: [Javascript, Typescript, HTML, CSS],
   code_backend: [C#, Python, Java, Cobol, PHP, ],
   code_mobille: [Kotlin],
-  frameworks: [ ADOTNet, Entity, Angular, JQuery, Svelte]
+  frameworks: [ADOTNet, Entity, Angular, JQuery, Svelte]
     
   /*Interpretes*/
   tools: [Node, Styled-Components, JVM]
